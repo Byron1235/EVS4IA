@@ -1,0 +1,15 @@
+model:
+  path: "models/detection_model.pt"
+  confidence_threshold: 0.5
+
+training:
+  epochs: 50
+  batch_size: 32
+  learning_rate: 0.001
+  validation_split: 0.2
+
+paths:
+  data: "data/"
+  raw: "data/raw/"
+  processed: "data/processed/"
+  output: "output/"

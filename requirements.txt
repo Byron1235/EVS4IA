@@ -1,6 +1,6 @@
-torch==1.12.1
-torchvision==0.13.1
+torch==2.4.1
+torchvision==0.17.1
 opencv-python==4.5.5.64
-numpy==1.21.5
+numpy==1.21.1
 pytesseract==0.3.8
 PyYAML==6.0
