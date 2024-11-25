@@ -8,7 +8,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 model = YOLO('yolov5s.pt')
 
 def detect_labels(image):
-    results = model(image)  # Predicción usando el modelo
+    results = model(image, conf=0.7)  # Predicción usando el modelo
     if len(results) > 0:  # Verificar si hay resultados
         labels = results[0].boxes.xyxy.numpy()  # Coordenadas de detección
         return labels
