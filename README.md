@@ -8,6 +8,10 @@ Asegúrate de tener Python 3.7 o superior instalado en tu máquina. Este proyect
 
 ### Dependencias
 
+Ejecutar requirements.txt
+
+## Resumen de algunas dependencias.
+
 - Python 3.7+
 - `torch==2.4.1`
 - `torchvision==0.17.1`
