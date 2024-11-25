@@ -1,6 +1,6 @@
-# EVS4IA (Environmental Vision System for Artificial Intelligence)
+# EVS4IA (Environmental Vision System 4 Artificial Intelligence o Evaluación sumativa 4 A.I.)
 
-EVS4IA es un sistema de visión por computadora que utiliza redes neuronales y técnicas avanzadas de procesamiento de imágenes para realizar tareas relacionadas con la detección y análisis en imágenes y videos. El proyecto está diseñado para trabajar en un entorno de desarrollo Python utilizando bibliotecas populares como OpenCV, PyTorch y otras herramientas de análisis de imágenes.
+EVS4IA es un sistema de visión por computadora que utiliza redes neuronales y técnicas avanzadas de procesamiento de imágenes para realizar tareas relacionadas con la detección y análisis en imágenes. El proyecto está diseñado para trabajar en un entorno de desarrollo Python utilizando bibliotecas populares como OpenCV, PyTorch y otras herramientas de análisis de imágenes.
 
 ## Requisitos
 
